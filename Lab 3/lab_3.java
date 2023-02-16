@@ -7,7 +7,7 @@ public class lab_3{
         float mean;
         Scanner sc=new Scanner(System.in);
         
-        System.out.print("Enter the length of the array: ");
+        System.out.print("Enter the length of the array to see your output: ");
         int length = sc.nextInt();
         int[] arr = new int[length];
         System.out.println("Enter the elements of the array: ");
