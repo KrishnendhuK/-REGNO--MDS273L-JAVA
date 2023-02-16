@@ -10,7 +10,7 @@ public class lab_3{
         System.out.print("Enter the length of the array to see your output: ");
         int length = sc.nextInt();
         int[] arr = new int[length];
-        System.out.println("Enter the elements of the array: ");
+        System.out.println("Enter the elements of the arrays: ");
         for (int i = 0; i < length; i++) {
             System.out.print("Enter the array element: ");
             arr[i] = sc.nextInt(); 
