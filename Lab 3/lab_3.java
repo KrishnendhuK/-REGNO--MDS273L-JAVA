@@ -70,7 +70,6 @@ public class lab_3{
             mode = array[array.length - 1];
         }
         return mode;
-    }
-}
+    }}
 
 
